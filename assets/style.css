@@ -54,10 +54,24 @@ body {
 }
 
 
-/*big item*/
-.big-item{
-	
+/*item page */
+.mainpic {
+    width: 630px;
+	background-color:#fff;
+	padding:10px;
+	margin-top: 100;
+	font-size:12px;
+	display: inline-block;
 }
+.contactbox {
+	background-color:#fff;
+	padding: 20px;
+    font-size: 12px;
+    float: right;
+ 	position: relative;
+    margin-right:20;
+}
+
 
 #navigation{
 	background: #fff;
